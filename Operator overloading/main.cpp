@@ -12,6 +12,7 @@ public:
     double imaginary;
 };
 
+
 //Complex operator+(const Complex &a, const Complex &b){                 //普通函数重载
 //    return Complex(a.real + b.real, a.imaginary + b.imaginary);
 //}
